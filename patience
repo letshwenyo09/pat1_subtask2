@@ -10,7 +10,7 @@ cin >> temp2;
 // Step 2: Check the difference between first and second readings
 int diff = temp2 - temp1;
 if (diff > 50) {
-cout << "Reduce fryer heat before taking the third reading." << endl;
+cout << "Reduce the fryer heat before taking the third reading." << endl;
 } else if (diff < 10) {
 cout << "Increase the Fryer heat before taking the third reading." << endl;
 }
