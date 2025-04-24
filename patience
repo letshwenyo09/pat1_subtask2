@@ -3,7 +3,7 @@ using namespace std;
 int main() {
 int temp1, temp2, temp3;
 // Step 1: Input three temperature readings
-cout << "Enter first temperature reading (in °C): ";
+cout << "Enter the first temperature reading (in °C): ";
 cin >> temp1;
 cout << "Enter second temperature reading (in °C): ";
 cin >> temp2;
